@@ -16,7 +16,6 @@
 
 ###
 
-<br clear="both">
 
 <h4 align="left">i build this game for practise about controls in C#</h4>
 
